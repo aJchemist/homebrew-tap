@@ -4,8 +4,8 @@
 - personal formulae
 - unstable formulae
 * brew tap
-: brew tap aJchemist/tap # overlay, may cause conflicts 
-: brew install aJchemist/tap/FORMULA # oneshot
+: brew tap aJchemist/tap # may cause some conflicts
+: brew install aJchemist/tap/FORMULA # explicitly install over duplication
 * Some Official Documents
 - https://github.com/Homebrew/homebrew/wiki/brew-tap
 - https://github.com/Homebrew/homebrew/wiki/FAQ
