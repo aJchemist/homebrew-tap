@@ -1,0 +1,12 @@
+#+STARTUP: indent
+
+* aJchemist Homebrew-tap
+- personal formulae
+- unstable formulae
+* brew tap
+: brew tap aJchemist/tap # overlay, may cause conflicts 
+: brew install aJchemist/tap/FORMULA # oneshot
+* Mainline Documents
+https://github.com/Homebrew/homebrew/wiki/brew-tap
+https://github.com/Homebrew/homebrew/wiki/FAQ
+https://github.com/Homebrew/homebrew/wiki/Formula-Cookbook
